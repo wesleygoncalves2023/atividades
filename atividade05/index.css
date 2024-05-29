@@ -1,0 +1,19 @@
+.calculator {
+    width: 300px;
+
+}
+
+button {
+    width: 60px;
+    height: 80px;
+    margin: 5px;
+    font-size: 20px;
+
+}
+
+input {
+    width: 95%;
+    height: 50px;
+    font-size: 20px;
+    margin: 5px;
+}
